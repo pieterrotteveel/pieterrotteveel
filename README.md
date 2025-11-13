@@ -1,6 +1,6 @@
 # Hi, I'm Pieter Rotteveel
 
-BSc Economics student @ Bocconi University. I love coding and applied data.  
+BSc Economics student @ Bocconi University. I love coding and applied data analytics and science.  
 Interested in **data science**, **machine learning** (delving into neural nets), and **quantitative economics**.
 
 **Stack:** Python · R · SQL · Excel  
