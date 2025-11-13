@@ -9,4 +9,4 @@ Interested in **data science**, **machine learning** (delving into neural nets),
 **Languages:** Dutch · English · French · Greek · German
 
 📫 GitHub: https://github.com/pieterrotteveel  
-📧 Email: <your.email@domain.com>
+📧 Email: pieterrotteveel.github.com
