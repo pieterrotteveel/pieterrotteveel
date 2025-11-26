@@ -8,5 +8,5 @@ Interested in **quantitative finance and economics**, **machine learning** (delv
 
 **Languages:** Dutch · English · French · Greek · German
 
-📫 GitHub: https://github.com/pieterrotteveel  
-📧 Email: pieterrotteveel.github.com
+GitHub: https://github.com/pieterrotteveel  
+Email: pieterrotteveel.github.com
